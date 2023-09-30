@@ -9,6 +9,8 @@
 /* Navbar css */
 
 #navbar{
+  position: sticky;
+  top:0px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -17,6 +19,7 @@
   padding-top:10px;
   padding-left:10px;
   padding-right:10px;
+  background-color: white;
 
 }
 
